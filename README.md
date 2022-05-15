@@ -1,7 +1,5 @@
 # Дипломна робота
 ## Розробка мобільного варіанту класичної гри 
 ### Морський бій 
+ ![image](https://user-images.githubusercontent.com/72339081/168480684-5d7474f7-62be-4e12-a072-4891422b09f9.png)
 
-![](http://pngimg.com/uploads/dinosaur/dinosaur_PNG16606.png)
- ## UML діаграма 
- <img src="https://github.com/ppc-ntu-khpi/35-inheritance-VladKharchenko1/blob/master/UML.png">
