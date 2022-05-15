@@ -1,5 +1,6 @@
 # Дипломна робота
 ## Розробка мобільного варіанту класичної гри 
 ### Морський бій 
- ![image](https://user-images.githubusercontent.com/72339081/168480684-5d7474f7-62be-4e12-a072-4891422b09f9.png)
+![image](https://user-images.githubusercontent.com/72339081/168480729-4ea17c78-8d08-49dd-89d9-e45351a4e603.png)
+
 
